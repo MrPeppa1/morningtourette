@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Morningtourette </string>
+
+    <string name="dummy_button">Neu generiere</string>
+    <string name="dummy_content">SWAG</string>
+    <string name="woerter">Morningtourette</string>
+    <string name="funwoerter">MorningTourette</string>
+    <string name="wiederhole">wiederholen</string>
+
+
+    <string-array name="firstwords" >
+        <item>Fick</item>
+        <item>Bums</item>
+        <item>Anal</item>
+        <item>Rosetten</item>
+        <item>Oral</item>
+        <item>Leck</item>
+        <item>Leck</item>
+
+    </string-array>
+
+    <string-array name="secondwords" >
+
+        <item> Anker</item>
+        <item> Atze</item>
+        <item> Baron</item>
+        <item> Banause</item>
+        <item> Bolzen</item>
+        <item> Braut</item>
+        <item> Brezel</item>
+        <item> Bunker</item>
+        <item> Fürst</item>
+        <item> Granate</item>
+        <item> Harpune</item>
+        <item> Hobel</item>
+        <item> Kissen</item>
+        <item> Knabe</item>
+        <item> Knolle</item>
+        <item> Mariechen</item>
+        <item> Maschine</item>
+        <item> Möhre</item>
+        <item> Nudel</item>
+        <item> Pirat</item>
+        <item> Prinz</item>
+        <item> Schnecke</item>
+        <item> Schwengel</item>
+        <item> Soldat</item>
+        <item> Werk</item>
+        <item> Anker</item>
+        <item> Atze</item>
+        <item> Banause</item>
+        <item> Baron</item>
+        <item> Blüte</item>
+        <item> Bolzen</item>
+        <item> Braut</item>
+        <item> Brezel</item>
+        <item> Bunker</item>
+        <item> Fürst</item>
+        <item> Granate</item>
+        <item> Harpune</item>
+        <item> Hobel</item>
+        <item> Kissen</item>
+        <item> Knabe</item>
+        <item> Knolle</item>
+        <item> Mariechen</item>
+        <item> Maschine</item>
+        <item> Möhre</item>
+        <item> Nudel</item>
+        <item> Pirat</item>
+        <item> Prinz</item>
+        <item> Schnecke</item>
+        <item> Schwengel</item>
+        <item> Soldat</item>
+        <item> Werk</item>
+        <item> Flittchen</item>
+        <item> Flinte</item>
+        <item> Rüpel</item>
+        <item> Rabauke</item>
+        <item> Herpes</item>
+        <item> Pilz</item>
+        <item> Bazille</item>
+        <item> Dose</item>
+        <item> Knödel</item>
+        <item> Blüte</item>
+        <item> Zwerg</item>
+        <item> Berg</item>
+        <item> Pferd</item>
+        <item> Zwiebel</item>
+        <item> Kaputze</item>
+
+    </string-array>
+
+</resources>
